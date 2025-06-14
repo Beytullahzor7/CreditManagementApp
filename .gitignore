@@ -1,0 +1,6 @@
+# Project exclude paths
+/bank-business/target/
+/bank-core/target/
+/bank-entities/target/
+/bank-repositories/target/
+/bank-webapi/target/
